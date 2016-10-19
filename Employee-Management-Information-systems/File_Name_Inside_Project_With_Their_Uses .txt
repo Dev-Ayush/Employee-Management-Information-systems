@@ -1,0 +1,15 @@
+dept_frm = Form to add new Departments
+
+emp_leave = Form for applying for Leave
+
+empdetails = Form for displaying all details of Employee
+
+employee_report = Form to submit Daily Work Report
+
+frmLogin = Login Screen
+
+MainPanel = Main Page after Logging in with respective Menus for             further actions.
+
+new_employee_data = Form to Add new Employee Information
+
+DATABASE FILE NAME: emp_mis.sdf [Located inside Bin Folder]

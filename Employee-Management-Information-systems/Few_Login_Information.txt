@@ -1,0 +1,25 @@
+ADMIN LOGIN INFORMATION
+
+* Username: Ram
+  Password: 123
+
+* Username: Sam
+  Password: abc
+
+
+EMPLOYEE LOGIN INFORMATION
+
+* Usename: Swati
+  Password: swati
+
+* Username: Rohan
+  Password: rohan
+
+* Username: Aditya
+  Password: aditya
+
+* Username: Shweta
+  Password: shweta
+
+* Username: Megha
+  Password: megha
