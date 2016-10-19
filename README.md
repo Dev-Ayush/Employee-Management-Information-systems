@@ -1,5 +1,6 @@
 # Employee-Management-Information-systems
-This is my Very First Project in Windows Form Application. For Database, I have used "Microsoft SQL Server Compact Edition".
+This is my Very First Project in Windows Form Application. 
+For Database, I have used "Microsoft SQL Server Compact Edition".
 
 In this, first their is a Login Screen where Admin/Employee will enter his Login Information and Sign In to his account.
 
