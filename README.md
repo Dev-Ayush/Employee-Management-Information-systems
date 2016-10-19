@@ -9,6 +9,6 @@ In the Admin Section, the admin can perform the following operations:
 * Add New Employee Data
 * Add New Work Department
 
-In the Employee Section, the exployee can perform the following actions:
+In the Employee Section, the employee can perform the following actions:
 * Submit Daily Work report with In-time & Out-Time
 * Apply For Leave with a table displaying the total leaves applied as well as total remaining leaves for the year .
